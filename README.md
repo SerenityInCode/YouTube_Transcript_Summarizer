@@ -41,19 +41,6 @@ This project builds an **AI agent pipeline** that:
 
 ---
 
-## 🖥️ Demo UI
-
-
-### Input:
-- YouTube video URL  
-
-### Output:
-- Summary  
-- Key Topics  
-- Key Takeaways  
-
----
-
 ## ▶️ How to Run the Project
 
 ### 1. Clone the repository
@@ -69,7 +56,7 @@ pip install -r requirements.txt
 
 ### 3. Set up environment variables
 ```bash
-OPENAI_API_KEY=your_api_key_here
+OPENAI_API_KEY= your_api_key_here
 ```
 
 ### 4. Run the app
